@@ -1,0 +1,8 @@
+uuid: 2790b0ab-0a95-4e1e-9cc9-e4004262c10e
+langcode: en
+status: true
+dependencies: {  }
+name: 'Vocabulario Prueba'
+vid: vocabulario_prueba
+description: 'este es un vocabulario de prueba'
+weight: 0

@@ -1,4 +1,4 @@
-uuid: 8d7a9826-65e6-4b4d-90e5-9050a08f4f7f
+uuid: 2c153082-ef2f-40a4-86a9-d330cb74ee50
 langcode: en
 status: true
 dependencies: {  }
@@ -7,7 +7,7 @@ _core:
 id: feedback
 label: 'Website feedback'
 recipients:
-  - jessmagd6@gmail.com
+  - test@gmail.com
 reply: ''
 weight: 0
 message: 'Your message has been sent.'

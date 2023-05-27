@@ -1,9 +1,9 @@
 _core:
   default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
 langcode: en
-uuid: 63dfcbc7-42bf-4fac-9e56-2d4b0132a823
-name: Blog
-mail: jessmagd6@gmail.com
+uuid: 6657d706-745d-49f9-b097-cd18da09e9bf
+name: 'Proyecto Drupal'
+mail: test@gmail.com
 slogan: ''
 page:
   403: ''
