@@ -1,0 +1,18 @@
+uuid: daf1f1b2-df45-44ba-8e9b-c995b2d885bc
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: Post
+type: post
+description: ''
+help: ''
+new_revision: true
+preview_mode: 2
+display_submitted: false
