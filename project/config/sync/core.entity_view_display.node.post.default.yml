@@ -4,8 +4,13 @@ status: true
 dependencies:
   config:
     - field.field.node.post.body
+    - field.field.node.post.field_categoria
+    - field.field.node.post.field_e
+    - field.field.node.post.field_imagen
+    - field.field.node.post.field_palabras_claves
     - node.type.post
   module:
+    - link
     - text
     - user
 id: node.post.default
@@ -19,6 +24,43 @@ content:
     settings: {  }
     third_party_settings: {  }
     weight: 101
+    region: content
+  field_categoria:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 103
+    region: content
+  field_e:
+    type: link
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    weight: 105
+    region: content
+  field_imagen:
+    type: entity_reference_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    weight: 102
+    region: content
+  field_palabras_claves:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 104
     region: content
   links:
     settings: {  }

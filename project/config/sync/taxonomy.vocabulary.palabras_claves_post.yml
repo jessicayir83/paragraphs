@@ -1,0 +1,8 @@
+uuid: 1186327f-f597-4411-8b14-e4e898a5e656
+langcode: en
+status: true
+dependencies: {  }
+name: 'Palabras claves- post'
+vid: palabras_claves_post
+description: 'tecnology, content type....'
+weight: 0
