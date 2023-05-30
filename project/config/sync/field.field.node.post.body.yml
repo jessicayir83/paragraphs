@@ -11,7 +11,7 @@ id: node.post.body
 field_name: body
 entity_type: node
 bundle: post
-label: Body
+label: 'Cuerpo de post'
 description: ''
 required: false
 translatable: true

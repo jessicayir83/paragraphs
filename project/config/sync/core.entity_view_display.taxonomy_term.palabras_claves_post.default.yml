@@ -1,0 +1,21 @@
+uuid: fea6a90d-91f2-4d8e-a2a7-45453179fe02
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.palabras_claves_post
+  module:
+    - text
+id: taxonomy_term.palabras_claves_post.default
+targetEntityType: taxonomy_term
+bundle: palabras_claves_post
+mode: default
+content:
+  description:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden: {  }
