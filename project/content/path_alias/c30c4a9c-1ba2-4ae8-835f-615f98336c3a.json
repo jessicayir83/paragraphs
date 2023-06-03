@@ -1,0 +1,40 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "id": [
+        {
+            "value": 3
+        }
+    ],
+    "uuid": [
+        {
+            "value": "c30c4a9c-1ba2-4ae8-835f-615f98336c3a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/media\/1\/edit"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/appellatio-loquor-mauris-metuo-qui-singularis-vicis."
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
