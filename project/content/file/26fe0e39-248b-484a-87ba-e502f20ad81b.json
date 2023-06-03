@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/sites\/default\/files\/2023-06\/generateImage_FTT3tn.jpg"
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/sites\/default\/files\/2023-06\/foF7q5QSZs.txt"
         },
         "type": {
             "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/file\/file"
@@ -14,12 +14,12 @@
     },
     "fid": [
         {
-            "value": 3
+            "value": 14
         }
     ],
     "uuid": [
         {
-            "value": "60d656f1-8d77-4f57-a66c-a167e3df4201"
+            "value": "26fe0e39-248b-484a-87ba-e502f20ad81b"
         }
     ],
     "langcode": [
@@ -48,39 +48,39 @@
     },
     "filename": [
         {
-            "value": "generateImage_FTT3tn.jpg"
+            "value": "foF7q5QSZs.txt"
         }
     ],
     "uri": [
         {
-            "value": "public:\/\/2023-06\/generateImage_FTT3tn.jpg",
-            "url": "\/sites\/default\/files\/2023-06\/generateImage_FTT3tn.jpg"
+            "value": "public:\/\/2023-06\/foF7q5QSZs.txt",
+            "url": "\/sites\/default\/files\/2023-06\/foF7q5QSZs.txt"
         }
     ],
     "filemime": [
         {
-            "value": "image\/jpeg"
+            "value": "text\/plain"
         }
     ],
     "filesize": [
         {
-            "value": 4899
+            "value": 753
         }
     ],
     "status": [
         {
-            "value": false
+            "value": true
         }
     ],
     "created": [
         {
-            "value": "2023-06-03T01:02:32+00:00",
+            "value": "2023-06-03T23:17:36+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2023-06-03T01:02:32+00:00",
+            "value": "2023-06-03T23:17:36+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

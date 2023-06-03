@@ -23,9 +23,7 @@
             }
         ],
         "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_imagen": [
-            {
-                "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/appellatio-loquor-mauris-metuo-qui-singularis-vicis.?_format=hal_json"
-            }
+            null
         ],
         "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_palabras_claves": [
             {
@@ -120,21 +118,7 @@
             }
         ],
         "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_imagen": [
-            {
-                "_links": {
-                    "self": {
-                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/appellatio-loquor-mauris-metuo-qui-singularis-vicis.?_format=hal_json"
-                    },
-                    "type": {
-                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/media\/image_post"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "f23877ba-bf7f-4a05-9d94-ad55d9837dbd"
-                    }
-                ]
-            }
+            null
         ],
         "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_palabras_claves": [
             {

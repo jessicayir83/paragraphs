@@ -1,0 +1,34 @@
+uuid: d8c135a4-3f26-4282-a909-bef093667d49
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.media.media_library
+    - field.field.media.galeria_videos.field_descripcion
+    - field.field.media.galeria_videos.field_media_video_file_1
+    - image.style.medium
+    - media.type.galeria_videos
+  module:
+    - image
+id: media.galeria_videos.media_library
+targetEntityType: media
+bundle: galeria_videos
+mode: media_library
+content:
+  thumbnail:
+    type: image
+    label: hidden
+    settings:
+      image_link: ''
+      image_style: medium
+      image_loading:
+        attribute: lazy
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  created: true
+  field_descripcion: true
+  field_media_video_file_1: true
+  name: true
+  uid: true

@@ -52,7 +52,7 @@
     ],
     "link": [
         {
-            "uri": "route:<nolink>",
+            "uri": "internal:\/galeria-videos",
             "title": "",
             "options": []
         }
@@ -64,7 +64,7 @@
     ],
     "rediscover": [
         {
-            "value": false
+            "value": true
         }
     ],
     "weight": [
@@ -79,7 +79,7 @@
     ],
     "changed": [
         {
-            "value": "2023-06-03T02:42:37+00:00",
+            "value": "2023-06-03T23:12:20+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }

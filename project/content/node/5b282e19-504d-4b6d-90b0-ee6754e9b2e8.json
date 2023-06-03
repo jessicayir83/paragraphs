@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/landing-page-blog?_format=hal_json"
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/galeria-videos?_format=hal_json"
         },
         "type": {
             "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/node\/landing_page"
@@ -20,12 +20,12 @@
     },
     "nid": [
         {
-            "value": 1
+            "value": 12
         }
     ],
     "uuid": [
         {
-            "value": "4a95785a-198d-4ed4-9bdc-f6ef88bf4902"
+            "value": "5b282e19-504d-4b6d-90b0-ee6754e9b2e8"
         }
     ],
     "langcode": [
@@ -41,7 +41,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2023-06-03T01:00:18+00:00",
+            "value": "2023-06-03T23:02:18+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -84,26 +84,26 @@
     },
     "status": [
         {
-            "value": false,
+            "value": true,
             "lang": "en"
         }
     ],
     "title": [
         {
-            "value": "Blogs",
+            "value": "Galer\u00eda de videos",
             "lang": "en"
         }
     ],
     "created": [
         {
-            "value": "2023-06-03T00:59:44+00:00",
+            "value": "2023-06-03T23:01:59+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2023-06-03T22:52:12+00:00",
+            "value": "2023-06-03T23:13:21+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -134,18 +134,9 @@
     ],
     "path": [
         {
-            "alias": "\/landing-page-blog",
-            "pid": 10,
+            "alias": "\/galeria-videos",
+            "pid": 11,
             "langcode": "en",
-            "lang": "en"
-        }
-    ],
-    "body": [
-        {
-            "value": "<p>Lorem ipsum<\/p>",
-            "format": "basic_html",
-            "processed": "<p>Lorem ipsum<\/p>",
-            "summary": "",
             "lang": "en"
         }
     ]

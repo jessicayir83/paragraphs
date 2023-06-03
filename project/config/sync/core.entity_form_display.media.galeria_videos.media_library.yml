@@ -1,0 +1,29 @@
+uuid: b0448c51-09d1-4814-a767-ade0e7fd7302
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_form_mode.media.media_library
+    - field.field.media.galeria_videos.field_descripcion
+    - field.field.media.galeria_videos.field_media_video_file_1
+    - media.type.galeria_videos
+id: media.galeria_videos.media_library
+targetEntityType: media
+bundle: galeria_videos
+mode: media_library
+content:
+  name:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  field_descripcion: true
+  field_media_video_file_1: true
+  path: true
+  status: true
+  uid: true
