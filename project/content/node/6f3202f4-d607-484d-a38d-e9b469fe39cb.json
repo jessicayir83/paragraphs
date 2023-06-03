@@ -1,0 +1,266 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/node\/11?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/node\/post"
+        },
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/node\/post\/uid": [
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_categoria": [
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/et-eum-gravis-loquor-quibus-roto.?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_imagen": [
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/appellatio-loquor-mauris-metuo-qui-singularis-vicis.?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_palabras_claves": [
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/augue-cogo-esse-eum-nulla-pagus-populus-quidem-roto.?_format=hal_json"
+            },
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/accumsan-aptent-commodo-laoreet-nibh-pagus-pneum-sagaciter-saluto-valetudo.?_format=hal_json"
+            },
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/accumsan-aptent-commodo-laoreet-nibh-pagus-pneum-sagaciter-saluto-valetudo.?_format=hal_json"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 11
+        }
+    ],
+    "uuid": [
+        {
+            "value": "6f3202f4-d607-484d-a38d-e9b469fe39cb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "post"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-03T01:02:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e0ac2396-951e-4deb-bd7a-587613115d0f"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/node\/post\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e0ac2396-951e-4deb-bd7a-587613115d0f"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_categoria": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/et-eum-gravis-loquor-quibus-roto.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/categoria_post"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "f9469aa7-5084-40b8-9190-a7c3454b236e"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_imagen": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/appellatio-loquor-mauris-metuo-qui-singularis-vicis.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/media\/image_post"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "f23877ba-bf7f-4a05-9d94-ad55d9837dbd"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_palabras_claves": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/augue-cogo-esse-eum-nulla-pagus-populus-quidem-roto.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/palabras_claves_post"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "f3781b9e-31e9-4110-83e5-85663cfe9567"
+                    }
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/accumsan-aptent-commodo-laoreet-nibh-pagus-pneum-sagaciter-saluto-valetudo.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/palabras_claves_post"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5ef233a5-0a9b-4d7e-803d-a89398e1f972"
+                    }
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/accumsan-aptent-commodo-laoreet-nibh-pagus-pneum-sagaciter-saluto-valetudo.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/palabras_claves_post"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5ef233a5-0a9b-4d7e-803d-a89398e1f972"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Cui",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-31T13:56:29+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-03T01:02:32+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "Brevitas diam euismod gilvus paulatim sagaciter similis typicus validus. Abbas abluo diam euismod neo paratus quis. Causa duis euismod in melior tation tum utinam valde vereor. Exerci iusto mos pneum populus te vero. Caecus dignissim ideo iusto nobis paratus praesent singularis.\n\nDiam elit esca importunus nimis oppeto pneum quibus uxor. Aptent fere haero lobortis natu praesent quae tation vulpes. Abbas antehabeo defui neque nimis nutus odio praemitto sit. Appellatio cogo cui dolore ideo natu obruo olim pecus pneum. Pecus similis suscipit.\n\nDiam humo lobortis quibus roto singularis tation valde. Exputo os sudo. Decet ea minim velit. Damnum gravis ille luptatum magna nostrud pagus quis suscipit. Dolore importunus praemitto premo tum.\n\nNeo si usitas uxor virtus. Abico ea ex gravis ibidem minim nisl tamen volutpat. Ad laoreet nunc pagus quibus sed suscipit ymo. Augue caecus camur consequat lucidus tation. Amet decet neque quis sit. Abico cogo commodo enim rusticus usitas.\n\nEros quidne validus. Duis haero refoveo suscipere suscipit. Abdo abigo causa dolor probo quadrum validus velit wisi. Abbas bene importunus laoreet letalis proprius. Acsi euismod facilisi immitto validus vero. Gilvus ille interdico jugis praemitto suscipit typicus.\n\nAntehabeo comis elit iusto os quidem ulciscor. Huic modo ymo. Ad camur conventio melior saluto. Ad eum huic luptatum neo qui. Aptent defui jugis neque proprius.\n\nHaero singularis veniam. Elit esse facilisis luptatum nibh paratus persto. Immitto ludus tation. Esca eum haero immitto iusto lucidus neque te. Abigo accumsan exputo iusto pagus paratus si sudo ut virtus. Aliquam aptent caecus damnum dolus eu laoreet obruo os zelus.\n\nAptent consequat lenis probo quis ratis si vel. Acsi ad dignissim et iaceo nimis obruo refoveo vulpes. Abico gilvus hos nimis occuro. Adipiscing amet illum natu nulla paratus sino. Amet conventio dolus erat mauris molior nimis tincidunt typicus. Aliquam feugiat gravis nisl odio populus volutpat.\n\nBene veniam vulputate. Abdo consequat ille melior quidem ut valetudo vulpes. Abbas bene ille oppeto pagus roto sagaciter tincidunt. Capto consectetuer incassum jumentum melior neo olim scisco tamen vulputate. Illum occuro suscipere zelus.\n\nAbluo capto commodo dolore nobis nutus quidne. Acsi comis vero. Commodo eu iriure vero. Aptent esse facilisi persto praemitto wisi. Immitto natu turpis. Facilisis incassum melior zelus. Ille mos nulla pecus.\n\nIncassum quidne vulpes. Abdo abluo cogo damnum huic laoreet oppeto vulputate. Adipiscing aptent genitus oppeto ratis. Consectetuer conventio enim praesent premo uxor verto. Aliquam minim ulciscor utinam volutpat zelus. Adipiscing genitus meus sit. Aptent caecus dolus importunus nunc saepius saluto sit verto vulputate.\n\nComis dignissim exputo imputo luctus tum ullamcorper uxor validus. Accumsan illum nutus quis sudo typicus venio. Adipiscing caecus nisl proprius. Acsi luctus metuo nostrud praemitto usitas utinam ymo. Abdo antehabeo immitto laoreet letalis meus nutus praemitto saluto verto.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Brevitas diam euismod gilvus paulatim sagaciter similis typicus validus. Abbas abluo diam euismod neo paratus quis. Causa duis euismod in melior tation tum utinam valde vereor. Exerci iusto mos pneum populus te vero. Caecus dignissim ideo iusto nobis paratus praesent singularis.<\/p>\n<p>Diam elit esca importunus nimis oppeto pneum quibus uxor. Aptent fere haero lobortis natu praesent quae tation vulpes. Abbas antehabeo defui neque nimis nutus odio praemitto sit. Appellatio cogo cui dolore ideo natu obruo olim pecus pneum. Pecus similis suscipit.<\/p>\n<p>Diam humo lobortis quibus roto singularis tation valde. Exputo os sudo. Decet ea minim velit. Damnum gravis ille luptatum magna nostrud pagus quis suscipit. Dolore importunus praemitto premo tum.<\/p>\n<p>Neo si usitas uxor virtus. Abico ea ex gravis ibidem minim nisl tamen volutpat. Ad laoreet nunc pagus quibus sed suscipit ymo. Augue caecus camur consequat lucidus tation. Amet decet neque quis sit. Abico cogo commodo enim rusticus usitas.<\/p>\n<p>Eros quidne validus. Duis haero refoveo suscipere suscipit. Abdo abigo causa dolor probo quadrum validus velit wisi. Abbas bene importunus laoreet letalis proprius. Acsi euismod facilisi immitto validus vero. Gilvus ille interdico jugis praemitto suscipit typicus.<\/p>\n<p>Antehabeo comis elit iusto os quidem ulciscor. Huic modo ymo. Ad camur conventio melior saluto. Ad eum huic luptatum neo qui. Aptent defui jugis neque proprius.<\/p>\n<p>Haero singularis veniam. Elit esse facilisis luptatum nibh paratus persto. Immitto ludus tation. Esca eum haero immitto iusto lucidus neque te. Abigo accumsan exputo iusto pagus paratus si sudo ut virtus. Aliquam aptent caecus damnum dolus eu laoreet obruo os zelus.<\/p>\n<p>Aptent consequat lenis probo quis ratis si vel. Acsi ad dignissim et iaceo nimis obruo refoveo vulpes. Abico gilvus hos nimis occuro. Adipiscing amet illum natu nulla paratus sino. Amet conventio dolus erat mauris molior nimis tincidunt typicus. Aliquam feugiat gravis nisl odio populus volutpat.<\/p>\n<p>Bene veniam vulputate. Abdo consequat ille melior quidem ut valetudo vulpes. Abbas bene ille oppeto pagus roto sagaciter tincidunt. Capto consectetuer incassum jumentum melior neo olim scisco tamen vulputate. Illum occuro suscipere zelus.<\/p>\n<p>Abluo capto commodo dolore nobis nutus quidne. Acsi comis vero. Commodo eu iriure vero. Aptent esse facilisi persto praemitto wisi. Immitto natu turpis. Facilisis incassum melior zelus. Ille mos nulla pecus.<\/p>\n<p>Incassum quidne vulpes. Abdo abluo cogo damnum huic laoreet oppeto vulputate. Adipiscing aptent genitus oppeto ratis. Consectetuer conventio enim praesent premo uxor verto. Aliquam minim ulciscor utinam volutpat zelus. Adipiscing genitus meus sit. Aptent caecus dolus importunus nunc saepius saluto sit verto vulputate.<\/p>\n<p>Comis dignissim exputo imputo luctus tum ullamcorper uxor validus. Accumsan illum nutus quis sudo typicus venio. Adipiscing caecus nisl proprius. Acsi luctus metuo nostrud praemitto usitas utinam ymo. Abdo antehabeo immitto laoreet letalis meus nutus praemitto saluto verto.<\/p>\n",
+            "summary": "Brevitas diam euismod gilvus paulatim sagaciter similis typicus validus. Abbas abluo diam euismod neo paratus quis. Causa duis euismod in melior tation tum utinam valde vereor. Exerci iusto mos pneum populus te vero. Caecus dignissim ideo iusto nobis paratus praesent singularis.\n\nDiam elit esca importunus nimis oppeto pneum quibus uxor. Aptent fere haero lobortis natu praesent quae tation vulpes. Abbas antehabeo defui neque nimis nutus odio praemitto sit. Appellatio cogo cui dolore ideo natu obruo olim pecus pneum. Pecus similis suscipit.\n\nDiam humo lobortis quibus roto singularis tation valde. Exputo os sudo. Decet ea minim velit. Damnum gravis ille luptatum magna nostrud pagus quis suscipit. Dolore importunus praemitto premo tum.\n\nNeo si usitas uxor virtus. Abico ea ex gravis ibidem minim nisl tamen volutpat. Ad laoreet nunc pagus quibus sed suscipit ymo. Augue caecus camur consequat lucidus tation. Amet decet neque quis sit. Abico cogo commodo enim rusticus usitas.\n\nEros quidne validus. Duis haero refoveo suscipere suscipit. Abdo abigo causa dolor probo quadrum validus velit wisi. Abbas bene importunus laoreet letalis proprius. Acsi euismod facilisi immitto validus vero. Gilvus ille interdico jugis praemitto suscipit typicus.\n\nAntehabeo comis elit iusto os quidem ulciscor. Huic modo ymo. Ad camur conventio melior saluto. Ad eum huic luptatum neo qui. Aptent defui jugis neque proprius.\n\nHaero singularis veniam. Elit esse facilisis luptatum nibh paratus persto. Immitto ludus tation. Esca eum haero immitto iusto lucidus neque te. Abigo accumsan exputo iusto pagus paratus si sudo ut virtus. Aliquam aptent caecus damnum dolus eu laoreet obruo os zelus.\n\nAptent consequat lenis probo quis ratis si vel. Acsi ad dignissim et iaceo nimis obruo refoveo vulpes. Abico gilvus hos nimis occuro. Adipiscing amet illum natu nulla paratus sino. Amet conventio dolus erat mauris molior nimis tincidunt typicus. Aliquam feugiat gravis nisl odio populus volutpat.\n\nBene veniam vulputate. Abdo consequat ille melior quidem ut valetudo vulpes. Abbas bene ille oppeto pagus roto sagaciter tincidunt. Capto consectetuer incassum jumentum melior neo olim scisco tamen vulputate. Illum occuro suscipere zelus.\n\nAbluo capto commodo dolore nobis nutus quidne. Acsi comis vero. Commodo eu iriure vero. Aptent esse facilisi persto praemitto wisi. Immitto natu turpis. Facilisis incassum melior zelus. Ille mos nulla pecus.\n\nIncassum quidne vulpes. Abdo abluo cogo damnum huic laoreet oppeto vulputate. Adipiscing aptent genitus oppeto ratis. Consectetuer conventio enim praesent premo uxor verto. Aliquam minim ulciscor utinam volutpat zelus. Adipiscing genitus meus sit. Aptent caecus dolus importunus nunc saepius saluto sit verto vulputate.\n\nComis dignissim exputo imputo luctus tum ullamcorper uxor validus. Accumsan illum nutus quis sudo typicus venio. Adipiscing caecus nisl proprius. Acsi luctus metuo nostrud praemitto usitas utinam ymo. Abdo antehabeo immitto laoreet letalis meus nutus praemitto saluto verto.\n\n",
+            "lang": "en"
+        }
+    ],
+    "field_e": [
+        {
+            "uri": "http:\/\/www.lurislipheres.com",
+            "title": "Autem iriure nobis nulla probo suscipit uxor.",
+            "options": []
+        },
+        {
+            "uri": "http:\/\/www.risasheciwruj.gov",
+            "title": "",
+            "options": []
+        }
+    ]
+}
