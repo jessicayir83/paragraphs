@@ -277,7 +277,7 @@ display:
     position: 1
     display_options:
       display_extenders: {  }
-      path: view-video
+      path: galeria-videos
     cache_metadata:
       max-age: -1
       contexts:
