@@ -36,3 +36,4 @@ hidden:
   field_e: true
   field_imagen: true
   field_palabras_claves: true
+  langcode: true

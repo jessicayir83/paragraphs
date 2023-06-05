@@ -30,5 +30,6 @@ hidden:
   created: true
   field_descripcion: true
   field_media_video_file_1: true
+  langcode: true
   name: true
   uid: true

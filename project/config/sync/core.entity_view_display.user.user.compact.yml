@@ -32,4 +32,5 @@ content:
 hidden:
   field_biography: true
   field_full_name: true
+  langcode: true
   member_for: true
