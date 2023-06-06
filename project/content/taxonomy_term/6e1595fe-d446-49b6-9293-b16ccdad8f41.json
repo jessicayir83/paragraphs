@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/taxonomy\/term\/12?_format=hal_json"
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/taxonomy\/term\/14?_format=hal_json"
         },
         "type": {
             "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/categoria_post"
@@ -12,12 +12,12 @@
     },
     "tid": [
         {
-            "value": 12
+            "value": 14
         }
     ],
     "uuid": [
         {
-            "value": "961a4f80-7eb2-4270-8445-c4c3922a8020"
+            "value": "6e1595fe-d446-49b6-9293-b16ccdad8f41"
         }
     ],
     "langcode": [
@@ -33,7 +33,7 @@
     ],
     "revision_created": [
         {
-            "value": "2023-06-03T22:41:10+00:00",
+            "value": "2023-06-06T20:36:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -45,13 +45,13 @@
     ],
     "name": [
         {
-            "value": "Content",
+            "value": "Updates",
             "lang": "en"
         }
     ],
     "weight": [
         {
-            "value": 0
+            "value": 2
         }
     ],
     "_embedded": {
@@ -61,7 +61,7 @@
     },
     "changed": [
         {
-            "value": "2023-06-03T22:41:10+00:00",
+            "value": "2023-06-06T20:36:58+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }

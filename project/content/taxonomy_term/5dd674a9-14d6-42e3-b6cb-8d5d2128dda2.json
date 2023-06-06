@@ -1,23 +1,23 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/taxonomy\/term\/12?_format=hal_json"
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/taxonomy\/term\/17?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/categoria_post"
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/palabras_claves_post"
         },
-        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/categoria_post\/parent": [
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/palabras_claves_post\/parent": [
             null
         ]
     },
     "tid": [
         {
-            "value": 12
+            "value": 17
         }
     ],
     "uuid": [
         {
-            "value": "961a4f80-7eb2-4270-8445-c4c3922a8020"
+            "value": "5dd674a9-14d6-42e3-b6cb-8d5d2128dda2"
         }
     ],
     "langcode": [
@@ -28,12 +28,12 @@
     ],
     "vid": [
         {
-            "target_id": "categoria_post"
+            "target_id": "palabras_claves_post"
         }
     ],
     "revision_created": [
         {
-            "value": "2023-06-03T22:41:10+00:00",
+            "value": "2023-06-06T20:45:41+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -45,23 +45,23 @@
     ],
     "name": [
         {
-            "value": "Content",
+            "value": "Nodes",
             "lang": "en"
         }
     ],
     "weight": [
         {
-            "value": 0
+            "value": 2
         }
     ],
     "_embedded": {
-        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/categoria_post\/parent": [
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/palabras_claves_post\/parent": [
             null
         ]
     },
     "changed": [
         {
-            "value": "2023-06-03T22:41:10+00:00",
+            "value": "2023-06-06T20:50:05+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }

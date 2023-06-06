@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/taxonomy\/term\/12?_format=hal_json"
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/taxonomy\/term\/15?_format=hal_json"
         },
         "type": {
             "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/categoria_post"
@@ -12,12 +12,12 @@
     },
     "tid": [
         {
-            "value": 12
+            "value": 15
         }
     ],
     "uuid": [
         {
-            "value": "961a4f80-7eb2-4270-8445-c4c3922a8020"
+            "value": "be2e61df-42a9-4c29-bbd3-da09803061a3"
         }
     ],
     "langcode": [
@@ -33,7 +33,7 @@
     ],
     "revision_created": [
         {
-            "value": "2023-06-03T22:41:10+00:00",
+            "value": "2023-06-06T20:36:55+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -45,13 +45,13 @@
     ],
     "name": [
         {
-            "value": "Content",
+            "value": "Extensions",
             "lang": "en"
         }
     ],
     "weight": [
         {
-            "value": 0
+            "value": 1
         }
     ],
     "_embedded": {
@@ -61,7 +61,7 @@
     },
     "changed": [
         {
-            "value": "2023-06-03T22:41:10+00:00",
+            "value": "2023-06-06T20:36:58+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
