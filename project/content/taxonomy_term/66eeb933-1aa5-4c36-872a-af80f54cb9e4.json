@@ -1,0 +1,96 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/paulatim-roto-sed-tation-vindico.?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/palabras_claves_post"
+        },
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/palabras_claves_post\/revision_user": [
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/user\/0?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/palabras_claves_post\/parent": [
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/accumsan-aptent-commodo-laoreet-nibh-pagus-pneum-sagaciter-saluto-valetudo.?_format=hal_json"
+            }
+        ]
+    },
+    "tid": [
+        {
+            "value": 6
+        }
+    ],
+    "uuid": [
+        {
+            "value": "66eeb933-1aa5-4c36-872a-af80f54cb9e4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "zxx",
+            "lang": "zxx"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "palabras_claves_post"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-18T08:13:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/palabras_claves_post\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "a883a9b0-9b37-4145-b50d-78c9ef76da1a"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/palabras_claves_post\/parent": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/accumsan-aptent-commodo-laoreet-nibh-pagus-pneum-sagaciter-saluto-valetudo.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/palabras_claves_post"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5ef233a5-0a9b-4d7e-803d-a89398e1f972"
+                    }
+                ]
+            }
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Dolore eros feugiat gilvus quia quibus utrum veniam voco. Blandit dignissim dolor dolore jus pertineo. Abluo feugiat imputo lenis probo vulpes. Inhibeo iriure neque turpis utrum. Adipiscing hendrerit iaceo immitto incassum loquor lucidus mauris occuro suscipere. Abluo at elit pecus quadrum refoveo torqueo vero.\n\nBrevitas obruo pecus. Caecus nostrud wisi. Cui et nobis pertineo plaga ulciscor virtus. Enim gravis illum lobortis premo venio vindico. Gravis pala plaga torqueo. Consectetuer cui similis. Causa incassum lucidus molior. Et fere iriure quidem vereor. Euismod hendrerit luctus luptatum proprius valde.\n\nIriure letalis metuo nobis veniam zelus. Abigo at nisl nostrud pala pecus refero. Appellatio distineo iusto luctus. Aliquam at distineo inhibeo pneum quae suscipit vereor vicis. Aptent brevitas camur tamen.\n\nAugue dolus pala roto scisco tincidunt validus. Aptent populus velit. Appellatio damnum feugiat incassum nulla sagaciter uxor. Autem consectetuer gravis jumentum ludus saepius utrum. Gravis refoveo saluto. Acsi blandit capto meus. Cui macto metuo. Letalis meus probo. Antehabeo facilisis melior. Amet erat feugiat genitus jus loquor tego ullamcorper.\n\nComis pertineo praemitto vel voco vulputate. Dolore ludus quidem. Abico amet quis scisco. Caecus camur defui jus meus nimis suscipit. Aptent blandit camur gemino magna praemitto torqueo.\n\nAutem commoveo nulla nunc pagus quia. Aliquip iaceo molior. Causa commodo exputo ibidem jumentum molior tincidunt. Adipiscing antehabeo damnum decet modo os saluto suscipere vulpes. Abigo camur distineo quia. Genitus natu nutus si torqueo. Abluo accumsan cogo exerci nisl nutus os. Abdo consectetuer nobis nutus suscipere volutpat.\n\nCaecus causa eligo iusto oppeto ut. Augue duis eros facilisi nunc usitas. Caecus hos importunus laoreet lucidus mauris quia. Damnum haero secundum typicus vulputate. Conventio haero minim patria. Eros persto te.\n\nExerci ludus saepius. Fere refero vel. Adipiscing commoveo fere gilvus odio plaga valetudo. Jus occuro quibus refoveo. Abluo enim illum importunus luctus nobis tum ulciscor uxor. Caecus enim genitus neque paulatim premo quae. Antehabeo bene dignissim iaceo nostrud nulla quadrum turpis usitas vulpes.\n\nEx lenis qui. Brevitas eu metuo pala quae suscipere. Bene inhibeo iustum nobis. Damnum hos occuro torqueo. At blandit iaceo jus lobortis nunc paulatim persto tation.\n\nCogo damnum dolor esse jus nostrud nulla paratus si suscipit. Aptent blandit conventio in modo refero refoveo rusticus saluto. Brevitas esca importunus jugis plaga. Abbas abluo nobis nostrud obruo odio scisco typicus ut vindico.\n\nCausa ibidem veniam vereor. Paratus ratis vero. Abbas distineo lobortis quis rusticus. Abigo aliquam gemino lucidus refero vero wisi. Adipiscing commoveo consequat gemino imputo luptatum quia sudo. Defui diam metuo. Amet et eum gilvus huic mauris patria wisi zelus. Consequat eligo iustum lenis nimis rusticus. Brevitas causa ea ille lenis paulatim probo vero wisi. Dolus ibidem molior odio pala saepius similis tum venio.\n\nAbigo commodo cui eum praemitto uxor. Damnum defui dignissim ratis. Importunus lucidus quadrum. Macto nutus praemitto. Ad meus occuro singularis tation. Ad causa patria paulatim ratis si similis sino. Augue enim haero lobortis paulatim qui tation veniam.\n\n"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/paulatim-roto-sed-tation-vindico.",
+            "pid": 7,
+            "langcode": "zxx",
+            "lang": "zxx"
+        }
+    ]
+}

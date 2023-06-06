@@ -1,18 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-jessicayir8-proyectofin-kei3rk5pvep.ws-us98.gitpod.io\/taxonomy\/term\/4?_format=hal_json"
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-jessicayir8-proyectofin-kei3rk5pvep.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/categoria_post"
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/categoria_post"
         },
-        "https:\/\/8080-jessicayir8-proyectofin-kei3rk5pvep.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/categoria_post\/parent": [
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/categoria_post\/parent": [
             null
         ]
     },
     "tid": [
         {
-            "value": 4
+            "value": 9
         }
     ],
     "uuid": [
@@ -51,17 +51,17 @@
     ],
     "weight": [
         {
-            "value": 1
+            "value": 3
         }
     ],
     "_embedded": {
-        "https:\/\/8080-jessicayir8-proyectofin-kei3rk5pvep.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/categoria_post\/parent": [
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/categoria_post\/parent": [
             null
         ]
     },
     "changed": [
         {
-            "value": "2023-06-03T22:41:33+00:00",
+            "value": "2023-06-06T20:36:58+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
