@@ -1,18 +1,18 @@
-uuid: 8b1503f8-19ab-4d3a-83d6-089297fbed0f
+uuid: b6969f26-cbff-4ac2-8fc7-cdf4c22c77d7
 langcode: en
 status: true
 dependencies:
   module:
     - link
     - node
-id: node.field_e
-field_name: field_e
+id: node.field_video_link
+field_name: field_video_link
 entity_type: node
 type: link
 settings: {  }
 module: link
 locked: false
-cardinality: 2
+cardinality: 1
 translatable: true
 indexes: {  }
 persist_with_no_fields: false

@@ -1,0 +1,29 @@
+uuid: 7c037a89-1157-4408-a2db-f09ac2a95412
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_keyword_post
+    - node.type.post
+    - taxonomy.vocabulary.palabras_claves_post
+id: node.post.field_keyword_post
+field_name: field_keyword_post
+entity_type: node
+bundle: post
+label: 'Keyword post'
+description: 'Este campo es para las palabras claves de un post'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      palabras_claves_post: palabras_claves_post
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

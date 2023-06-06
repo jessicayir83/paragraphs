@@ -4,10 +4,10 @@ status: true
 dependencies:
   config:
     - field.field.node.post.body
-    - field.field.node.post.field_categoria
-    - field.field.node.post.field_e
+    - field.field.node.post.field_category_post
     - field.field.node.post.field_imagen
-    - field.field.node.post.field_palabras_claves
+    - field.field.node.post.field_keyword_post
+    - field.field.node.post.field_related_links
     - node.type.post
   module:
     - link
@@ -28,23 +28,15 @@ content:
       placeholder: ''
       show_summary: false
     third_party_settings: {  }
-  field_categoria:
+  field_category_post:
     type: entity_reference_autocomplete
-    weight: 3
+    weight: 26
     region: content
     settings:
       match_operator: CONTAINS
       match_limit: 10
       size: 60
       placeholder: ''
-    third_party_settings: {  }
-  field_e:
-    type: link_default
-    weight: 5
-    region: content
-    settings:
-      placeholder_url: ''
-      placeholder_title: ''
     third_party_settings: {  }
   field_imagen:
     type: media_library_widget
@@ -53,15 +45,23 @@ content:
     settings:
       media_types: {  }
     third_party_settings: {  }
-  field_palabras_claves:
+  field_keyword_post:
     type: entity_reference_autocomplete
-    weight: 4
+    weight: 27
     region: content
     settings:
       match_operator: CONTAINS
       match_limit: 10
       size: 60
       placeholder: ''
+    third_party_settings: {  }
+  field_related_links:
+    type: link_default
+    weight: 28
+    region: content
+    settings:
+      placeholder_url: ''
+      placeholder_title: ''
     third_party_settings: {  }
   langcode:
     type: language_select

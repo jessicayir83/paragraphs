@@ -1,0 +1,21 @@
+uuid: 17ca9bae-c535-4ba2-9bfe-5bf6cdbe8833
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_video_description
+    - node.type.landing_page_video
+  module:
+    - text
+id: node.landing_page_video.field_video_description
+field_name: field_video_description
+entity_type: node
+bundle: landing_page_video
+label: 'Video description'
+description: 'Este campo es para agregar una descripción al video'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

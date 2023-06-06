@@ -1,13 +1,13 @@
-uuid: e85d1354-b9bc-4b2f-858b-7dbf96f4b9b6
+uuid: 51479f31-3cfd-4499-987c-29bcc35d34ee
 langcode: en
 status: true
 dependencies:
   module:
-    - media
+    - node
     - text
-id: media.field_descripcion
-field_name: field_descripcion
-entity_type: media
+id: node.field_video_description
+field_name: field_video_description
+entity_type: node
 type: text_long
 settings: {  }
 module: text

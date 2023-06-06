@@ -5,10 +5,10 @@ dependencies:
   config:
     - core.entity_view_mode.node.teaser
     - field.field.node.post.body
-    - field.field.node.post.field_categoria
-    - field.field.node.post.field_e
+    - field.field.node.post.field_category_post
     - field.field.node.post.field_imagen
-    - field.field.node.post.field_palabras_claves
+    - field.field.node.post.field_keyword_post
+    - field.field.node.post.field_related_links
     - node.type.post
   module:
     - text
@@ -32,8 +32,8 @@ content:
     weight: 100
     region: content
 hidden:
-  field_categoria: true
-  field_e: true
+  field_category_post: true
   field_imagen: true
-  field_palabras_claves: true
+  field_keyword_post: true
+  field_related_links: true
   langcode: true

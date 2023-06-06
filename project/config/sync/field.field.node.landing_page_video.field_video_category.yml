@@ -1,18 +1,18 @@
-uuid: 153d238f-4f0a-4f3f-8190-e97a3601b919
+uuid: 0e44c115-2eb8-4ab2-9188-307365a397f7
 langcode: en
 status: true
 dependencies:
   config:
-    - field.storage.node.field_categoria
-    - node.type.post
+    - field.storage.node.field_video_category
+    - node.type.landing_page_video
     - taxonomy.vocabulary.categoria_post
-id: node.post.field_categoria
-field_name: field_categoria
+id: node.landing_page_video.field_video_category
+field_name: field_video_category
 entity_type: node
-bundle: post
-label: Categoria
-description: ''
-required: false
+bundle: landing_page_video
+label: 'Video category'
+description: 'Este campo es para la categoria del video'
+required: true
 translatable: false
 default_value: {  }
 default_value_callback: ''
@@ -24,6 +24,6 @@ settings:
     sort:
       field: name
       direction: asc
-    auto_create: true
+    auto_create: false
     auto_create_bundle: ''
 field_type: entity_reference
