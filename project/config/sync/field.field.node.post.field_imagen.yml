@@ -10,8 +10,8 @@ id: node.post.field_imagen
 field_name: field_imagen
 entity_type: node
 bundle: post
-label: Imagen
-description: ''
+label: Image
+description: 'Este campo es para la imagen de un post'
 required: true
 translatable: false
 default_value: {  }

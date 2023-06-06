@@ -2,7 +2,7 @@ uuid: a8b6b1a3-abec-40d2-942d-e928b1e07756
 langcode: en
 status: true
 dependencies: {  }
-name: Categoria-post
+name: Category
 vid: categoria_post
-description: 'categorias de los posts'
+description: 'Taxonomía para categorizar '
 weight: 0

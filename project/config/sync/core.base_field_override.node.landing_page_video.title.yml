@@ -1,14 +1,14 @@
-uuid: 63ff5ebd-2d53-4518-8e99-d5610c6101c7
+uuid: 4694a80a-21b9-4146-ac82-7d9da6ab0cda
 langcode: en
 status: true
 dependencies:
   config:
-    - node.type.landing_page
-id: node.landing_page.title
+    - node.type.landing_page_video
+id: node.landing_page_video.title
 field_name: title
 entity_type: node
-bundle: landing_page
-label: 'Nombre de landing-page'
+bundle: landing_page_video
+label: 'Video title'
 description: ''
 required: true
 translatable: true

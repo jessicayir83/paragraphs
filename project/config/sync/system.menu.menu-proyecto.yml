@@ -1,8 +1,0 @@
-uuid: cbded084-60fd-4847-8fc1-de439c3d6223
-langcode: en
-status: true
-dependencies: {  }
-id: menu-proyecto
-label: Menu-proyecto
-description: ''
-locked: false

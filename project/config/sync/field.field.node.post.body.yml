@@ -11,9 +11,9 @@ id: node.post.body
 field_name: body
 entity_type: node
 bundle: post
-label: 'Cuerpo de post'
-description: ''
-required: false
+label: 'Body post'
+description: 'Este campo es para el cuerpo del post'
+required: true
 translatable: true
 default_value: {  }
 default_value_callback: ''
