@@ -1,0 +1,18 @@
+uuid: f0ad00ad-1b14-4e31-875c-6a8788edf1ca
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.landing_page_blogs
+id: node.landing_page_blogs.title
+field_name: title
+entity_type: node
+bundle: landing_page_blogs
+label: 'Blog title'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

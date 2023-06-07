@@ -1,0 +1,36 @@
+uuid: f7993397-04fe-4bfc-ae40-68b33f489a43
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.landing_page_blogs.layout_builder__layout
+    - node.type.landing_page_blogs
+  module:
+    - layout_builder
+    - user
+third_party_settings:
+  layout_builder:
+    enabled: true
+    allow_custom: true
+    sections:
+      -
+        layout_id: layout_twocol_section
+        layout_settings:
+          label: Layout-Blogs
+          context_mapping: {  }
+          column_widths: 75-25
+        components: {  }
+        third_party_settings: {  }
+id: node.landing_page_blogs.default
+targetEntityType: node
+bundle: landing_page_blogs
+mode: default
+content:
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  langcode: true
+  layout_builder__layout: true
