@@ -1,0 +1,80 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/et-eum-gravis-loquor-quibus-roto.?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/categoria_post"
+        },
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/categoria_post\/revision_user": [
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/user\/0?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/categoria_post\/parent": [
+            null
+        ]
+    },
+    "tid": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "f9469aa7-5084-40b8-9190-a7c3454b236e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "categoria_post"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-11-10T22:03:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/categoria_post\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "a883a9b0-9b37-4145-b50d-78c9ef76da1a"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/categoria_post\/parent": [
+            null
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Blandit dignissim fere humo. Capto ibidem lucidus patria. Abbas antehabeo duis iaceo ludus odio tego vereor vulputate. Quia suscipit tincidunt verto vicis.\n\nConsectetuer facilisi macto metuo qui sit ut. Mauris nostrud obruo. Acsi ideo macto pertineo te. Abbas abluo at comis jumentum molior quia turpis utinam utrum. Causa decet eros facilisi minim occuro ut vereor. Ex gilvus illum saluto. Gemino jus ludus paulatim valetudo velit vicis voco.\n\nAdipiscing bene hos vindico. Abbas amet consectetuer natu obruo proprius saepius vero voco vulputate. Adipiscing et iusto. Ad defui fere ille illum luctus premo tincidunt torqueo verto.\n\nEt facilisis premo quidem valetudo virtus. Commodo commoveo ille lobortis molior. Facilisis suscipit vereor volutpat. Consequat immitto in neque olim rusticus similis te typicus. Aliquam comis conventio distineo mos nibh paulatim.\n\nBlandit imputo nunc pertineo ratis uxor. Fere torqueo vel. Camur gravis iusto nutus validus. Capto laoreet luptatum meus saluto. Enim gemino vel. Quia utinam vero. Abico appellatio iriure modo nulla nunc plaga refero velit zelus. Abluo camur consectetuer duis ea eros esca mauris. Abigo gilvus ille iusto paulatim probo quae suscipere veniam. Abico decet ea iaceo laoreet roto si tego vereor vulpes.\n\nAbluo bene facilisis fere proprius. Esse feugiat ille nunc quidem scisco. Elit gravis loquor mauris refoveo valde. Ad et eum lobortis nimis odio quidem utinam zelus. Damnum lenis pertineo praemitto suscipere veniam.\n\nAugue minim premo quadrum quae utinam venio. Adipiscing aliquip damnum eum metuo mos oppeto persto si. At duis valetudo verto. Premo proprius vindico. Antehabeo gemino jugis luptatum valde vindico. Consectetuer nulla paulatim ullamcorper. Appellatio et fere humo jus ulciscor utrum vicis.\n\nEu facilisis loquor natu tincidunt vulputate. Esca fere humo neo pneum. Autem bene iaceo inhibeo metuo obruo probo quae ullamcorper. Acsi eu metuo paratus.\n\nEa eros letalis nunc sagaciter voco. Euismod nimis nutus quibus. Capto pecus proprius turpis. Aliquam aptent brevitas camur genitus torqueo verto. Eum in magna paratus paulatim. Brevitas capto haero iusto quae roto validus. Causa genitus iusto molior praesent scisco sino suscipit ut. Blandit ibidem refero. Antehabeo neque turpis. Duis eu magna persto praemitto sit. Augue blandit defui esse iaceo ibidem.\n\nFacilisi laoreet mauris. Abico ille jugis macto minim roto sino. Abluo acsi cui duis ille illum imputo iusto loquor. Humo modo pala tamen ulciscor veniam voco. Amet camur duis ibidem vereor.\n\nNeo neque pala. Eros persto praesent refero valde. Eum fere feugiat illum luctus nunc obruo plaga quae verto. Autem dolus loquor persto populus ratis ullamcorper. Diam distineo ibidem. Abluo decet eligo iaceo illum melior quae utrum vero. Autem bene commoveo defui feugiat in persto probo uxor. Appellatio defui ex quis refoveo. Abluo damnum defui.\n\nAntehabeo commodo dignissim ex exerci fere gravis incassum nunc sagaciter. Duis gilvus iustum nostrud nutus pecus refero sino tamen veniam.\n\n"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/et-eum-gravis-loquor-quibus-roto.",
+            "pid": 1,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ]
+}
