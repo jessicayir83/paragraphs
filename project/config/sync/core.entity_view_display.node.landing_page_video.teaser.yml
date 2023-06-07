@@ -10,20 +10,35 @@ dependencies:
     - field.field.node.landing_page_video.field_video_link
     - node.type.landing_page_video
   module:
+    - text
     - user
 id: node.landing_page_video.teaser
 targetEntityType: node
 bundle: landing_page_video
 mode: teaser
 content:
+  field_video_category:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_video_description:
+    type: text_trimmed
+    label: above
+    settings:
+      trim_length: 250
+    third_party_settings: {  }
+    weight: 1
+    region: content
   links:
     settings: {  }
     third_party_settings: {  }
-    weight: 100
+    weight: 0
     region: content
 hidden:
-  field_video_category: true
-  field_video_description: true
   field_video_file: true
   field_video_link: true
   langcode: true
