@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/admin\/structure\/menu\/item\/3\/edit?_format=hal_json"
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/admin\/structure\/menu\/item\/7\/edit?_format=hal_json"
         },
         "type": {
             "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/menu_link_content\/menu_link_content"
@@ -9,12 +9,12 @@
     },
     "id": [
         {
-            "value": 3
+            "value": 7
         }
     ],
     "uuid": [
         {
-            "value": "09905f3e-608d-49db-b238-26053e6a33ad"
+            "value": "f29799d1-eb78-4bee-bc0c-81681c4aed2b"
         }
     ],
     "langcode": [
@@ -30,7 +30,7 @@
     ],
     "revision_created": [
         {
-            "value": "2023-06-03T02:42:15+00:00",
+            "value": "2023-06-07T06:16:05+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -41,18 +41,18 @@
     ],
     "title": [
         {
-            "value": "Galer\u00eda videos",
+            "value": "Homepage",
             "lang": "en"
         }
     ],
     "menu_name": [
         {
-            "value": "menu-proyecto"
+            "value": "main"
         }
     ],
     "link": [
         {
-            "uri": "internal:\/galeria-videos",
+            "uri": "route:<nolink>",
             "title": "",
             "options": []
         }
@@ -64,12 +64,12 @@
     ],
     "rediscover": [
         {
-            "value": true
+            "value": false
         }
     ],
     "weight": [
         {
-            "value": -48
+            "value": -50
         }
     ],
     "expanded": [
@@ -79,7 +79,7 @@
     ],
     "changed": [
         {
-            "value": "2023-06-03T23:12:20+00:00",
+            "value": "2023-06-07T06:16:14+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }

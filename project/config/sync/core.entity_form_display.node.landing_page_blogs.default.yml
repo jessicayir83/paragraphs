@@ -1,0 +1,29 @@
+uuid: ec3b615e-1fcf-415e-9249-df033f4c0f50
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.landing_page_blogs.layout_builder__layout
+    - node.type.landing_page_blogs
+id: node.landing_page_blogs.default
+targetEntityType: node
+bundle: landing_page_blogs
+mode: default
+content:
+  title:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  langcode: true
+  layout_builder__layout: true
+  path: true
+  promote: true
+  status: true
+  sticky: true
+  uid: true

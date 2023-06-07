@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/sites\/default\/files\/2023-06\/generateImage_FTT3tn.jpg"
+            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/sites\/default\/files\/2023-06\/y2mate.com%20-%20Videos%20Cortos%20Video%20de%20relleno_1080p.mp4"
         },
         "type": {
             "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/file\/file"
@@ -14,12 +14,12 @@
     },
     "fid": [
         {
-            "value": 30
+            "value": 35
         }
     ],
     "uuid": [
         {
-            "value": "60d656f1-8d77-4f57-a66c-a167e3df4201"
+            "value": "65cb1721-b2de-4b83-8074-d80992cb9154"
         }
     ],
     "langcode": [
@@ -48,39 +48,39 @@
     },
     "filename": [
         {
-            "value": "generateImage_FTT3tn.jpg"
+            "value": "y2mate.com - Videos Cortos Video de relleno_1080p.mp4"
         }
     ],
     "uri": [
         {
-            "value": "public:\/\/2023-06\/generateImage_FTT3tn.jpg",
-            "url": "\/sites\/default\/files\/2023-06\/generateImage_FTT3tn.jpg"
+            "value": "public:\/\/2023-06\/y2mate.com - Videos Cortos Video de relleno_1080p.mp4",
+            "url": "\/sites\/default\/files\/2023-06\/y2mate.com%20-%20Videos%20Cortos%20Video%20de%20relleno_1080p.mp4"
         }
     ],
     "filemime": [
         {
-            "value": "image\/jpeg"
+            "value": "video\/mp4"
         }
     ],
     "filesize": [
         {
-            "value": 4899
+            "value": 2565677
         }
     ],
     "status": [
         {
-            "value": false
+            "value": true
         }
     ],
     "created": [
         {
-            "value": "2023-06-03T01:02:32+00:00",
+            "value": "2023-06-06T21:21:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2023-06-03T01:02:32+00:00",
+            "value": "2023-06-06T21:21:31+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]
