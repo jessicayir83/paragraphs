@@ -1,0 +1,219 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/node\/7?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/rest\/type\/node\/landing_page_video"
+        },
+        "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/rest\/relation\/node\/landing_page_video\/revision_uid": [
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/user\/0?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/rest\/relation\/node\/landing_page_video\/uid": [
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/user\/0?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/rest\/relation\/node\/landing_page_video\/field_video_category": [
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
+            },
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/taxonomy\/term\/6?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/rest\/relation\/node\/landing_page_video\/field_video_file": [
+            {
+                "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/abico-bene-conventio-cui-decet-minim-paratus.?_format=hal_json"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 7
+        }
+    ],
+    "uuid": [
+        {
+            "value": "acc5f748-fdc8-4f3d-9c66-0e745f9270c5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "landing_page_video"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-07T20:53:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/rest\/relation\/node\/landing_page_video\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "a0df1ac3-9823-4dff-bac1-ad3e3dc01b30"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/rest\/relation\/node\/landing_page_video\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "a0df1ac3-9823-4dff-bac1-ad3e3dc01b30"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/rest\/relation\/node\/landing_page_video\/field_video_category": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/categoria_post"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "be2e61df-42a9-4c29-bbd3-da09803061a3"
+                    }
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/taxonomy\/term\/6?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/categoria_post"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8663fce1-cfdc-4f17-a772-8eeebb8d1059"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/rest\/relation\/node\/landing_page_video\/field_video_file": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/abico-bene-conventio-cui-decet-minim-paratus.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-jessicayir8-proyectofin-pos4cgzz6pr.ws-us98.gitpod.io\/rest\/type\/media\/video"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b0c7634e-d9c9-44b6-81ae-230beff27083"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Landing-page-Video - Caecus Nostrud",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-04T03:58:14+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-07T20:53:08+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "field_video_description": [
+        {
+            "value": "Capto gemino nulla suscipere vel verto. Abluo blandit diam esca et nobis nunc paratus quibus singularis. Aliquam enim euismod ibidem persto volutpat.\n\nQuia tum turpis. Macto quidem tincidunt. Antehabeo commodo exerci proprius scisco similis tincidunt. Augue consectetuer duis hos iriure mos tation utinam venio.\n\nAptent exputo nibh odio. Antehabeo bene duis immitto odio roto. Abdo appellatio brevitas capto premo scisco sino. Conventio et ibidem jumentum nobis os sit ullamcorper vulputate.\n\nEligo ille illum metuo praesent sagaciter valde. Caecus immitto ludus nimis. Dolore odio refoveo typicus utrum. At blandit causa dignissim duis iusto quis si torqueo virtus. Enim pneum quibus quis ulciscor vindico. Cui eros gemino mauris pagus vero.\n\nAutem conventio euismod in inhibeo natu. Augue esca melior proprius. Defui dolus ex facilisi in quibus roto valde vicis. Ad esca ludus os paratus persto quia tation volutpat. Causa erat eu imputo nulla pertineo sed tego veniam venio. Ea nutus refoveo scisco wisi.\n\nAbdo bene incassum magna pala refoveo saepius saluto tincidunt utinam. Elit pagus verto. Decet macto quae saepius. Blandit conventio dolus typicus verto volutpat. Defui exputo hos nutus occuro quis voco. Commodo interdico metuo minim singularis sino validus vulpes.\n\nAbico autem caecus iaceo jugis lenis lobortis persto premo suscipere. Defui eros saluto turpis ut valetudo. Melior mos valetudo. Abigo aptent iusto os refoveo similis usitas. Caecus comis facilisi melior nimis nisl nulla nunc. Blandit causa consectetuer dolor hos nunc nutus premo tincidunt ulciscor. Incassum saluto valetudo. Dignissim feugiat lobortis pecus ymo.\n\nDecet pecus pneum sed valde vulpes. Hendrerit occuro suscipere. Autem mauris refero sino suscipere. Amet autem eligo importunus nostrud quadrum usitas vereor. Defui ludus quae volutpat. Eros eum hendrerit. Capto minim pala. Gilvus macto usitas. Blandit causa eum. Caecus conventio ideo importunus macto natu nimis torqueo. Diam et humo lenis odio paulatim pneum sit voco vulpes.\n\nAbdo accumsan ratis. Elit eu exputo ille nutus quadrum ratis similis. Accumsan adipiscing gravis pagus paulatim tum vero vindico. Dolore ex illum iustum olim veniam. Acsi aliquip causa dolus euismod plaga praesent volutpat.\n\nAd pecus refero. Importunus paulatim persto quae turpis. Esse hos odio oppeto typicus. Abdo antehabeo cogo exerci haero macto mauris patria refoveo. Esca interdico quadrum ulciscor ut. Pecus qui singularis utrum. Damnum jugis mos natu tum uxor vel veniam zelus. Aliquam brevitas consectetuer ex gravis molior nimis qui. Abdo comis conventio ex molior persto proprius quidne.\n\nAppellatio cogo humo iusto quae roto vindico. Abigo abluo commodo diam erat eros magna paratus. Acsi distineo eligo facilisis in os paulatim probo quidem. Natu nisl olim. Antehabeo incassum refoveo saepius. Dolor elit letalis olim qui. Incassum magna minim te. Appellatio immitto nibh patria proprius quibus roto typicus ulciscor veniam. Abbas immitto nulla valde vicis vulpes. Facilisi fere metuo refoveo secundum veniam.\n\nAbluo capto incassum neque pertineo pneum tincidunt. Iriure jus molior nostrud quibus verto volutpat. Adipiscing caecus et hos luptatum magna qui turpis. Lucidus luctus similis voco. Abico abigo amet dignissim magna nibh quis sagaciter veniam vindico. Esca exerci luctus mauris nisl nostrud typicus valetudo. Diam nibh utinam.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Capto gemino nulla suscipere vel verto. Abluo blandit diam esca et nobis nunc paratus quibus singularis. Aliquam enim euismod ibidem persto volutpat.<\/p>\n<p>Quia tum turpis. Macto quidem tincidunt. Antehabeo commodo exerci proprius scisco similis tincidunt. Augue consectetuer duis hos iriure mos tation utinam venio.<\/p>\n<p>Aptent exputo nibh odio. Antehabeo bene duis immitto odio roto. Abdo appellatio brevitas capto premo scisco sino. Conventio et ibidem jumentum nobis os sit ullamcorper vulputate.<\/p>\n<p>Eligo ille illum metuo praesent sagaciter valde. Caecus immitto ludus nimis. Dolore odio refoveo typicus utrum. At blandit causa dignissim duis iusto quis si torqueo virtus. Enim pneum quibus quis ulciscor vindico. Cui eros gemino mauris pagus vero.<\/p>\n<p>Autem conventio euismod in inhibeo natu. Augue esca melior proprius. Defui dolus ex facilisi in quibus roto valde vicis. Ad esca ludus os paratus persto quia tation volutpat. Causa erat eu imputo nulla pertineo sed tego veniam venio. Ea nutus refoveo scisco wisi.<\/p>\n<p>Abdo bene incassum magna pala refoveo saepius saluto tincidunt utinam. Elit pagus verto. Decet macto quae saepius. Blandit conventio dolus typicus verto volutpat. Defui exputo hos nutus occuro quis voco. Commodo interdico metuo minim singularis sino validus vulpes.<\/p>\n<p>Abico autem caecus iaceo jugis lenis lobortis persto premo suscipere. Defui eros saluto turpis ut valetudo. Melior mos valetudo. Abigo aptent iusto os refoveo similis usitas. Caecus comis facilisi melior nimis nisl nulla nunc. Blandit causa consectetuer dolor hos nunc nutus premo tincidunt ulciscor. Incassum saluto valetudo. Dignissim feugiat lobortis pecus ymo.<\/p>\n<p>Decet pecus pneum sed valde vulpes. Hendrerit occuro suscipere. Autem mauris refero sino suscipere. Amet autem eligo importunus nostrud quadrum usitas vereor. Defui ludus quae volutpat. Eros eum hendrerit. Capto minim pala. Gilvus macto usitas. Blandit causa eum. Caecus conventio ideo importunus macto natu nimis torqueo. Diam et humo lenis odio paulatim pneum sit voco vulpes.<\/p>\n<p>Abdo accumsan ratis. Elit eu exputo ille nutus quadrum ratis similis. Accumsan adipiscing gravis pagus paulatim tum vero vindico. Dolore ex illum iustum olim veniam. Acsi aliquip causa dolus euismod plaga praesent volutpat.<\/p>\n<p>Ad pecus refero. Importunus paulatim persto quae turpis. Esse hos odio oppeto typicus. Abdo antehabeo cogo exerci haero macto mauris patria refoveo. Esca interdico quadrum ulciscor ut. Pecus qui singularis utrum. Damnum jugis mos natu tum uxor vel veniam zelus. Aliquam brevitas consectetuer ex gravis molior nimis qui. Abdo comis conventio ex molior persto proprius quidne.<\/p>\n<p>Appellatio cogo humo iusto quae roto vindico. Abigo abluo commodo diam erat eros magna paratus. Acsi distineo eligo facilisis in os paulatim probo quidem. Natu nisl olim. Antehabeo incassum refoveo saepius. Dolor elit letalis olim qui. Incassum magna minim te. Appellatio immitto nibh patria proprius quibus roto typicus ulciscor veniam. Abbas immitto nulla valde vicis vulpes. Facilisi fere metuo refoveo secundum veniam.<\/p>\n<p>Abluo capto incassum neque pertineo pneum tincidunt. Iriure jus molior nostrud quibus verto volutpat. Adipiscing caecus et hos luptatum magna qui turpis. Lucidus luctus similis voco. Abico abigo amet dignissim magna nibh quis sagaciter veniam vindico. Esca exerci luctus mauris nisl nostrud typicus valetudo. Diam nibh utinam.<\/p>\n"
+        }
+    ],
+    "field_video_link": [
+        {
+            "uri": "http:\/\/www.joshetrastuwotu.net",
+            "title": "",
+            "options": []
+        }
+    ]
+}
