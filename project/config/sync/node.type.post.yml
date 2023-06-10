@@ -13,6 +13,6 @@ name: Post
 type: post
 description: ''
 help: ''
-new_revision: true
+new_revision: false
 preview_mode: 2
 display_submitted: false
