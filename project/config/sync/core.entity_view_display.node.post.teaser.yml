@@ -51,4 +51,3 @@ content:
 hidden:
   field_keyword_post: true
   field_related_links: true
-  langcode: true

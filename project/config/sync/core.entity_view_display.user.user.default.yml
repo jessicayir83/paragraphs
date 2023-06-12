@@ -45,5 +45,4 @@ content:
     weight: 1
     region: content
 hidden:
-  langcode: true
   member_for: true
