@@ -41,4 +41,3 @@ content:
 hidden:
   field_video_file: true
   field_video_link: true
-  langcode: true
