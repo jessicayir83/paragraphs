@@ -5,11 +5,13 @@ dependencies:
   config:
     - field.field.node.post.body
     - field.field.node.post.field_category_post
+    - field.field.node.post.field_comments
     - field.field.node.post.field_imagen
     - field.field.node.post.field_keyword_post
     - field.field.node.post.field_related_links
     - node.type.post
   module:
+    - comment
     - link
     - media_library
     - text
@@ -37,6 +39,12 @@ content:
       match_limit: 10
       size: 60
       placeholder: ''
+    third_party_settings: {  }
+  field_comments:
+    type: comment_default
+    weight: 29
+    region: content
+    settings: {  }
     third_party_settings: {  }
   field_imagen:
     type: media_library_widget
