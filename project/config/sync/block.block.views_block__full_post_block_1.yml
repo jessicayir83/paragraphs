@@ -1,0 +1,32 @@
+uuid: 124ba11f-7791-41fd-9d81-40e5983397c0
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.full_post
+  module:
+    - node
+    - views
+  theme:
+    - olivero
+id: views_block__full_post_block_1
+theme: olivero
+region: sidebar
+weight: 0
+provider: null
+plugin: 'views_block:full_post-block_1'
+settings:
+  id: 'views_block:full_post-block_1'
+  label: ''
+  label_display: visible
+  provider: views
+  views_label: ''
+  items_per_page: none
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+    bundles:
+      post: post
