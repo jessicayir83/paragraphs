@@ -5,9 +5,11 @@ dependencies:
   config:
     - field.field.node.landing_page_blogs.layout_builder__layout
     - node.type.landing_page_blogs
+    - views.view.view_post
   module:
     - layout_builder
     - user
+    - views
 third_party_settings:
   layout_builder:
     enabled: true
@@ -19,7 +21,46 @@ third_party_settings:
           label: Layout-Blogs
           context_mapping: {  }
           column_widths: 75-25
-        components: {  }
+        components:
+          91a68bcb-a3c7-4894-9bc5-55af81db5187:
+            uuid: 91a68bcb-a3c7-4894-9bc5-55af81db5187
+            region: first
+            configuration:
+              id: 'views_block:view_post-block_2'
+              label: ''
+              label_display: visible
+              provider: views
+              context_mapping: {  }
+              views_label: ''
+              items_per_page: none
+            weight: 0
+            additional: {  }
+          98f5bc92-6493-4752-abca-b610bbbdc512:
+            uuid: 98f5bc92-6493-4752-abca-b610bbbdc512
+            region: second
+            configuration:
+              id: 'views_block:view_post-block_1'
+              label: ''
+              label_display: visible
+              provider: views
+              context_mapping: {  }
+              views_label: ''
+              items_per_page: none
+            weight: 0
+            additional: {  }
+          ce46a3f0-cd56-4e65-9ecc-8d9d94eb6a59:
+            uuid: ce46a3f0-cd56-4e65-9ecc-8d9d94eb6a59
+            region: second
+            configuration:
+              id: 'views_block:view_post-block_3'
+              label: ''
+              label_display: visible
+              provider: views
+              context_mapping: {  }
+              views_label: ''
+              items_per_page: none
+            weight: 1
+            additional: {  }
         third_party_settings: {  }
 id: node.landing_page_blogs.default
 targetEntityType: node

@@ -1,15 +1,15 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/admin\/structure\/menu\/item\/5\/edit?_format=hal_json"
+            "href": "https:\/\/8080-jessicayir8-proyectofin-6lmek9vxj0p.ws-us99.gitpod.io\/admin\/structure\/menu\/item\/3\/edit?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-jessicayir8-proyectofin-x9jd7g2wh74.ws-us98.gitpod.io\/rest\/type\/menu_link_content\/menu_link_content"
+            "href": "https:\/\/8080-jessicayir8-proyectofin-6lmek9vxj0p.ws-us99.gitpod.io\/rest\/type\/menu_link_content\/menu_link_content"
         }
     },
     "id": [
         {
-            "value": 5
+            "value": 3
         }
     ],
     "uuid": [
@@ -52,7 +52,7 @@
     ],
     "link": [
         {
-            "uri": "route:<nolink>",
+            "uri": "internal:\/landing-blogs",
             "title": "",
             "options": []
         }
@@ -64,7 +64,7 @@
     ],
     "rediscover": [
         {
-            "value": false
+            "value": true
         }
     ],
     "weight": [
@@ -79,7 +79,7 @@
     ],
     "changed": [
         {
-            "value": "2023-06-07T07:08:02+00:00",
+            "value": "2023-06-10T03:52:27+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }

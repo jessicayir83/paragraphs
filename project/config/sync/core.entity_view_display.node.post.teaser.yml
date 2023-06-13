@@ -50,6 +50,5 @@ content:
     weight: 0
     region: content
 hidden:
-  field_comments: true
   field_keyword_post: true
   field_related_links: true
