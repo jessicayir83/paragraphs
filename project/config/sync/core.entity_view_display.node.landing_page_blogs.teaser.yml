@@ -62,16 +62,7 @@ third_party_settings:
               items_per_page: none
             weight: 1
             additional: {  }
-          4a2b9176-7b16-4a2d-8b36-2a68d2039b33:
-            uuid: 4a2b9176-7b16-4a2d-8b36-2a68d2039b33
-            region: content
-            configuration:
-              id: 'extra_field_block:node:landing_page_blogs:links'
-              label_display: '0'
-              context_mapping:
-                entity: layout_builder.entity
-            weight: 0
-            additional: {  }
+
         third_party_settings: {  }
 id: node.landing_page_blogs.teaser
 targetEntityType: node
