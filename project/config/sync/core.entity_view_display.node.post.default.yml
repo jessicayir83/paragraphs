@@ -3,14 +3,17 @@ langcode: en
 status: true
 dependencies:
   config:
+    - core.entity_view_display.comment.comment.default
     - field.field.node.post.body
     - field.field.node.post.field_category_post
+    - field.field.node.post.field_comments
     - field.field.node.post.field_imagen
     - field.field.node.post.field_keyword_post
     - field.field.node.post.field_related_links
+    - field.field.node.post.field_title
     - node.type.post
   module:
-    - link
+    - comment
     - text
     - user
 id: node.post.default
@@ -23,13 +26,22 @@ content:
     label: above
     settings: {  }
     third_party_settings: {  }
-    weight: 2
+    weight: 0
     region: content
   field_category_post:
     type: entity_reference_label
     label: above
     settings:
       link: true
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_comments:
+    type: comment_default
+    label: above
+    settings:
+      view_mode: default
+      pager_id: 0
     third_party_settings: {  }
     weight: 4
     region: content
@@ -40,7 +52,7 @@ content:
       view_mode: default
       link: false
     third_party_settings: {  }
-    weight: 3
+    weight: 1
     region: content
   field_keyword_post:
     type: entity_reference_label
@@ -48,24 +60,16 @@ content:
     settings:
       link: true
     third_party_settings: {  }
-    weight: 5
+    weight: 3
     region: content
-  field_related_links:
-    type: link
+  field_title:
+    type: string
     label: above
     settings:
-      trim_length: 80
-      url_only: false
-      url_plain: false
-      rel: ''
-      target: ''
+      link_to_entity: false
     third_party_settings: {  }
-    weight: 6
-    region: content
-  links:
-    settings: {  }
-    third_party_settings: {  }
-    weight: 0
+    weight: 5
     region: content
 hidden:
-  langcode: true
+  field_related_links: true
+  links: true
