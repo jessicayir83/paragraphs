@@ -9,12 +9,12 @@
     },
     "id": [
         {
-            "value": 1
+            "value": 3
         }
     ],
     "uuid": [
         {
-            "value": "322f45ac-2b82-40c0-894d-28e69e169bfc"
+            "value": "96088d43-82f9-4bee-89e8-322e2914240b"
         }
     ],
     "langcode": [
@@ -24,12 +24,12 @@
     ],
     "path": [
         {
-            "value": "\/node\/17"
+            "value": "\/node\/19"
         }
     ],
     "alias": [
         {
-            "value": "\/landing-blogs"
+            "value": "\/landing-blog"
         }
     ],
     "status": [

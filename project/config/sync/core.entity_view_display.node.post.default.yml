@@ -10,6 +10,7 @@ dependencies:
     - field.field.node.post.field_imagen
     - field.field.node.post.field_keyword_post
     - field.field.node.post.field_related_links
+    - field.field.node.post.field_title
     - node.type.post
   module:
     - comment
@@ -61,6 +62,10 @@ content:
     third_party_settings: {  }
     weight: 3
     region: content
-hidden:
-  field_related_links: true
-  links: true
+  field_title:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 5

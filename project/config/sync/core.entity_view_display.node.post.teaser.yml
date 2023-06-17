@@ -10,6 +10,7 @@ dependencies:
     - field.field.node.post.field_imagen
     - field.field.node.post.field_keyword_post
     - field.field.node.post.field_related_links
+    - field.field.node.post.field_title
     - node.type.post
   module:
     - text
@@ -50,5 +51,7 @@ content:
     weight: 0
     region: content
 hidden:
+  field_comments: true
   field_keyword_post: true
   field_related_links: true
+  field_title: true
